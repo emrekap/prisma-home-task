@@ -1,7 +1,7 @@
 {
-  "name": "prisma-home-task",
+  "name": "prisma-home-task-server",
   "version": "1.0.0",
-  "description": "prisma home task interview project",
+  "description": "prisma home task interview api project",
   "main": "./index.ts",
   "scripts": {
     "start": "ts-node index.ts",
