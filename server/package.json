@@ -2,10 +2,10 @@
   "name": "prisma-home-task",
   "version": "1.0.0",
   "description": "prisma home task interview project",
-  "main": "server/index.ts",
+  "main": "./index.ts",
   "scripts": {
-    "start": "ts-node server/index.ts",
-    "dev": "nodemon server/index.ts",
+    "start": "ts-node index.ts",
+    "dev": "nodemon index.ts",
     "test": "jest",
     "typecheck": "tsc --noEmit"
   },
